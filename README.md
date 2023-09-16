@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nrmlnaa
+- 👋 Hi, I’m Nur Amalina Binti Samsuri, an IT fresh graduate
 - 👀 I’m interested in data programming, mobile or web development
 - 🌱 I’m currently looking for permanent job placement
 - 💞️ I’m looking to collaborate more in any tech stuff
